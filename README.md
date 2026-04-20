@@ -1,4 +1,4 @@
-# HR Workflow Designer
+# kinWORKFLOW
 
 A production-ready React + TypeScript application for designing and simulating HR workflows. Built with modern frontend architecture principles, this tool empowers HR administrators to visually create complex workflows including onboarding, leave approvals, and document verification processes.
 
